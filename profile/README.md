@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[Go to private Table of Contents](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile#adding-a-member-only-organization-profile-readme)
+[Go to private Table of Contents](https://github.com/ConfusionTechnologies/.github-private/blob/main/profile/README.md)
 
 <!--
 
